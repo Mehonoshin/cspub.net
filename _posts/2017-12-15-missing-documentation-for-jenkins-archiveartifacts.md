@@ -2,6 +2,7 @@
 layout: post
 title: Missing documentation for Jenkins 'archiveArtifacts'
 date: 2017-12-15 11:41 +0200
+tags: [jenkins, CI, devops]
 ---
 
 Today I was struggling with Jenkins CI, and I was unable to find _any_ documentation for `archiveArtifacts` function.

@@ -2,6 +2,7 @@
 layout: post
 title: Blank response from Rails within Docker deploy
 date: 2018-01-16 22:20 +0300
+tags: [ruby, rails, docker]
 ---
 
 It is the second time, when I ship application in Docker container and see the following error:
