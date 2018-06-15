@@ -2,7 +2,7 @@
 layout: post
 title: Poor Vim's performance at large Ruby file
 date: 2018-06-15 16:48 +0300
-tags: [vim cli]
+tags: [vim, cli]
 ---
 
 I use MacVim+Iterm2+tmux stack already for several years.
