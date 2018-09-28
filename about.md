@@ -1,18 +1,26 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div>
+	<span>
+	  Hello, everyone!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+		<br />
+		I'm an experienced software engineer, technical leader, and programming mentor.
+		<br />
+		I enjoy working closely with the product teams, or even as a part of them to enforce the product success with my technical expertise.
+		<br />
+		Besides commercial projects, I spend my time on non-profit opensource projects as well.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+		<br />
+		<br />
+		<strong>Skills</strong>:
+		<br />
+		Software Architecture, Ruby, Golang, Elixir, Rails, Trailblazer, RabbitMQ, TDD, UML, OOP, SQL, Docker, Ansible
+		Scrum, Kanban, Leadership, Mentorship
+	</span>
+</div>
 
-
-[jekyll-organization]: https://github.com/jekyll
