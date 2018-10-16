@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://cspub.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stasik_mexx
 github_username: Mehonoshin
 
@@ -34,6 +34,9 @@ google_analytics: UA-115027972-1
 jekyll_compose:
   auto_open: true
 
+comments: true
+disqus:
+  shortname: cspub
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
