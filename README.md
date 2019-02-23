@@ -1,2 +1,2 @@
-# Mehonoshin.github.io
-Personal development blog
+# cspub.net
+Personal website
