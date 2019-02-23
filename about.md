@@ -19,7 +19,7 @@ permalink: /about/
 		<br />
 		<strong>Skills</strong>:
 		<br />
-		Software Architecture, Ruby, Golang, Elixir, Rails, Trailblazer, RabbitMQ, TDD, UML, OOP, SQL, Docker, Ansible
+		Software Architecture, Ruby, Golang, Elixir, Rails, Trailblazer, RabbitMQ, TDD, UML, OOP, SQL, Docker, Ansible,
 		Scrum, Kanban, Leadership, Mentorship
 	</span>
 </div>
