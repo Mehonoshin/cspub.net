@@ -4,23 +4,23 @@ title: About me
 permalink: /about/
 ---
 
-<div>
-	<span>
-	  Hello, everyone!
+Hello, everyone!
 
-		<br />
-		I'm an experienced software engineer, technical leader, and programming mentor.
-		<br />
-		I enjoy working closely with the product teams, or even as a part of them to enforce the product success with my technical expertise.
-		<br />
-		Besides commercial projects, I spend my time on non-profit opensource projects as well.
+I'm an experienced software engineer, technical leader, and programming mentor.
+I enjoy working closely with product teams, or even as a part of them to enforce the product success with my technical expertise.
 
-		<br />
-		<br />
-		<strong>Skills</strong>:
-		<br />
-		Software Architecture, Ruby, Golang, Elixir, Rails, Trailblazer, RabbitMQ, TDD, UML, OOP, SQL, Docker, Ansible,
-		Scrum, Kanban, Leadership, Mentorship
-	</span>
-</div>
+Besides commercial projects, I spend my time on opensource projects as well:
+
+<ul>
+	<li>
+		<a target="_blank" href="https://smartvpn.dev">smartvpn.dev</a>
+	</li>
+	<li>
+		<a target="_blank" href="https://www.symbiod.org">symbiod.org</a>
+	</li>
+</ul>
+
+#### Skills:
+Software Architecture, Ruby, Golang, Elixir, Rails, Trailblazer, RabbitMQ, TDD, UML, OOP, SQL, Docker, Ansible,
+Scrum, Kanban, Leadership, Mentorship
 

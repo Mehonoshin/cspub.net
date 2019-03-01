@@ -1,9 +1,6 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -13,10 +10,10 @@
             {% else %}
               {{ site.title | escape }}
             {% endif %}
-            </li>
-            {% if site.email %}
+					</li>
+					{% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+					{% endif %}
         </ul>
       </div>
 
@@ -25,14 +22,12 @@
           <li>
 						<a href='https://github.com/Mehonoshin' target="_blank"><img src='/assets/github.png' width="40px"></a>
 						<a href='https://www.facebook.com/stanislav.mekhonoshin' target="_blank"><img src='/assets/facebook.png' width="40px"></a>
- 						<a href='https://stackoverflow.com/users/613256/stanislav-mekhonoshin' target="_blank"><img src='/assets/stackoverflow.png' width="40px"></a>
- 						<a href='https://www.goodreads.com/user/show/70618260-stanislav-mekhonoshin' target="_blank"><img src='/assets/goodreads.png' width="40px"></a>
- 						<a href='https://www.linkedin.com/in/stanislav-mekhonoshin-b3088953/' target="_blank"><img src='/assets/linkedin.png' width="40px"></a>
+						<a href='https://stackoverflow.com/users/613256/stanislav-mekhonoshin' target="_blank"><img src='/assets/stackoverflow.png' width="40px"></a>
+						<a href='https://www.goodreads.com/user/show/70618260-stanislav-mekhonoshin' target="_blank"><img src='/assets/goodreads.png' width="40px"></a>
+						<a href='https://www.linkedin.com/in/stanislav-mekhonoshin-b3088953/' target="_blank"><img src='/assets/linkedin.png' width="40px"></a>
           </li>
         </ul>
       </div>
     </div>
-
   </div>
-
 </footer>
