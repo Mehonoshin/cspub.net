@@ -9,7 +9,7 @@ Hello, everyone!
 I'm an experienced software engineer, technical leader, and programming mentor.
 I enjoy working closely with product teams, or even as a part of them to enforce the product success with my technical expertise.
 
-You can hire me as a mentor at [mkdev.me](https://mkdev.me/mentors/Mehonoshin)
+*Hire me as a mentor* at [mkdev.me](https://mkdev.me/en/mentors/Mehonoshin)!
 
 Besides commercial projects, I spend my time on opensource projects as well:
 
