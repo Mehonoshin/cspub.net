@@ -9,6 +9,7 @@ permalink: /publications/
 * [Коммерческий VPN сервис в opensource](https://habr.com/ru/post/261295/)
 * [Почему стать VPN провайдером не так просто?](https://habr.com/ru/post/262843/)
 * [Опыт разработки некоммерческого проекта силами джуниоров](https://habr.com/ru/post/350842/)
+* [Зимовка программиста в Испании: как организовать, что нужно знать, к чему готовиться](https://mkdev.me/posts/zimovka-programmista-v-ispanii-kak-organizovat-chto-nuzhno-znat-k-chemu-gotovitsya)
 
 ### English
 
