@@ -4,6 +4,10 @@ title: Talks
 permalink: /talks/
 ---
 
+### От стажера до инженера
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/nbbNXkeckcg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Про.Quality
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/QC1IHUmfyf8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
