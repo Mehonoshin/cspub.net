@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello, everyone!
 
-I'm an experienced software engineer, technical leader, and programming mentor.
+I'm a [certified Scrum Master](https://www.scrumalliance.org/community/profile/smekhonosh), experienced software engineer, technical leader, and programming mentor.
 I enjoy working closely with product teams, or even as a part of them to enforce the product success with my technical expertise.
 
 *Hire me as a mentor* at [mkdev.me](https://mkdev.me/en/mentors/Mehonoshin)!
