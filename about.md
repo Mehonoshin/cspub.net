@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello, everyone!
 
-I'm a [certified Scrum Master](https://www.scrumalliance.org/community/profile/smekhonosh), experienced software engineer, technical leader, and programming mentor.
+I'm a [OSCP](https://www.credly.com/badges/924302ad-99cf-4aaf-9d68-a317c4444f96/public_url), [certified Scrum Master](https://www.scrumalliance.org/community/profile/smekhonosh), experienced software engineer, technical leader, and programming mentor.
 I enjoy working closely with product teams, or even as a part of them to enforce the product success with my technical expertise.
 
 *Hire me as a mentor* at [mkdev.me](https://mkdev.me/en/mentors/Mehonoshin)!
