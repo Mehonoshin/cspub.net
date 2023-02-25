@@ -1,6 +1,5 @@
 ---
 layout: page
-title: EUC Map
 permalink: /eucmap/
 ---
 
