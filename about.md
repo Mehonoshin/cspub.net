@@ -12,6 +12,6 @@ I have spent over 10 years working closely with engineering teams at different s
 Software, Security and Management expertise lets me foresee issues and improve engineering processes in advance.
 That includes both hands-on technical and overall engineering culture audit.
 
-Today I help companies to transform their engineering processes in order to effectively achieve their goals.
+Today I help companies to transform their engineering processes in order to effectively achieve their business goals.
 
 *Hire me as a mentor* at [mkdev.me](https://mkdev.me/en/mentors/Mehonoshin)!
