@@ -16,7 +16,7 @@ So instead of patching random findings here and there, it is much better to have
 
 ## When security program is important?
 
-- To work with enterprise customers. Such clients usually take security seriously and tend to asses and request certifications from their service providers.
+- To work with enterprise customers. Such clients usually take security seriously and tend to assess and request certifications from their service providers.
 - If the company processes some sensitive medical or financial data.
 - In case of any confirmed data breach or other security incidents. The importance of security becomes clear when it is too late.
 
