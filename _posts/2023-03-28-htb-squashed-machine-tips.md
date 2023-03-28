@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTB: Squashed machine review
+title: HTB Squashed machine review
 date: 2023-03-28 21:00 +0300
 ---
 
